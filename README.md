@@ -4,7 +4,7 @@ Kamis 14 Agustus 2025
 # Service pada Mikrotik
   Service pada mikrotik memudahkan user dalam mengakses dan me-manage router. Secara default service ini akan dijalankan terus menerus oleh RB Mikrotik, kita bisa cek di **IP > Service**.  
     
-  ![serpis]()  
+  ![serpis](serpis.PNG)  
 
   Berikut adalah informasi dan fungsi dari masing-masing service yang ada.  
   1. API  
